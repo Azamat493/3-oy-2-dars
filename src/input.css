@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-black: #373e46;
+  --color-dark-gray: #747474;
+  --color-primary-white: #fff;
+  --color-background-white: #f1f1f1;
+  --color-line-gray: #e6e6e6;
+  --color-primary-red: #621f2a;
+  --color-secondary-red: #822736;
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-posterama: "Posterama Text", sans-serif;
+  --font-jost: "Jost", sans-serif;
+}
